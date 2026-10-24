@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# ClamAV quarantine / scan output (if used locally)
+quarantine/
+*.scan
+
+# Environment files
+.env
